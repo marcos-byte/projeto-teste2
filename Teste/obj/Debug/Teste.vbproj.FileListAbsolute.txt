@@ -1,0 +1,22 @@
+C:\Users\marcos.jordao\Desktop\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\marcos.jordao\Desktop\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\marcos.jordao\Desktop\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\marcos.jordao\Desktop\Teste\Teste\bin\Debug\Teste.xml
+C:\Users\marcos.jordao\Desktop\Teste\Teste\obj\Debug\Teste.Form1.resources
+C:\Users\marcos.jordao\Desktop\Teste\Teste\obj\Debug\Teste.Resources.resources
+C:\Users\marcos.jordao\Desktop\Teste\Teste\obj\Debug\Teste.vbproj.GenerateResource.Cache
+C:\Users\marcos.jordao\Desktop\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\marcos.jordao\Desktop\Teste\Teste\obj\Debug\Teste.xml
+C:\Users\marcos.jordao\Desktop\Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\marcos.jordao\Desktop\Projeto Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\marcos.jordao\Desktop\Projeto Teste\Teste\obj\Debug\Teste.exe
+C:\Users\marcos.jordao\Desktop\Projeto Teste\Teste\obj\Debug\Teste.xml
+C:\Users\marcos.jordao\Desktop\Projeto Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\marcos.jordao\Desktop\Projeto-Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\marcos.jordao\Desktop\Projeto-Teste\Teste\obj\Debug\Teste.exe
+C:\Users\marcos.jordao\Desktop\Projeto-Teste\Teste\obj\Debug\Teste.xml
+C:\Users\marcos.jordao\Desktop\Projeto-Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\marcos.jordao\Desktop\Projeto-teste2\Teste\bin\Debug\Teste.exe.config
+C:\Users\marcos.jordao\Desktop\Projeto-teste2\Teste\obj\Debug\Teste.exe
+C:\Users\marcos.jordao\Desktop\Projeto-teste2\Teste\obj\Debug\Teste.xml
+C:\Users\marcos.jordao\Desktop\Projeto-teste2\Teste\obj\Debug\Teste.pdb
